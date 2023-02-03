@@ -37,7 +37,7 @@
 
 ***What is Error-Code "0x0F"?***
 
-- *This Error-Code displays if any of the Save-Data has an Invalid Health ammount, or if theh Save-Data hasn't been opened.*
+- *This Error-Code displays if any of the Save-Data has an Invalid Health ammount, or hasn't been opened.*
 
 # Upcoming Updates:
 - BattleMiner (2014) Update - ***Expect By: 03/01/2023.***
