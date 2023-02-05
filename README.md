@@ -16,7 +16,7 @@
 # Notes:
 - Not an Advanced GUI. Uses ***Numpad Keys 0-3*** To Navigate Menu's.
 - Edits ***ALL*** Save-Data Within The Current Directory.
-- ***Only*** Edits BMZ Health.
+- Edits "The Magic Hammer" and "BattleMinerZ" Health Now.
 
 # FaQ:
 ***Why is my Save-Data not Valid?***
