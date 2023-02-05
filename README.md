@@ -8,7 +8,7 @@
 
 
 # Features:
-- Edit Health in BMZ Adventure Save-Data.
+- Edit Health in BMZ/BM/TMH Adventure Save-Data.
 
 # Download:
 - Lastest Version [Download](https://github.com/Cracko298/BMZHE/blob/main/BMZHE.zip?raw=true)
