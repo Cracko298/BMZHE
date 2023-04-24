@@ -40,4 +40,4 @@
 - *This Error-Code displays if any of the Save-Data has an Invalid Health ammount, or hasn't been opened.*
 
 # Upcoming Updates:
-- BattleMiner (2014) Update - ***Expect By: 03/01/2023.***
+- BattleMiner (2014) Update - ***Has Been Delayed Until Further Notice.***
