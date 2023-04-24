@@ -11,7 +11,7 @@
 - Edit Health in BMZ/BM/TMH Adventure Save-Data.
 
 # Download:
-- Lastest Version [Download](https://github.com/Cracko298/BMZHE/blob/main/BMZHE.zip?raw=true)
+- Lastest Version [Download](https://github.com/Cracko298/BMZHE/blob/main/BMZHE.exe?raw=true)
 
 # Notes:
 - Not an Advanced GUI. Uses ***Numpad Keys 0-3*** To Navigate Menu's.
